@@ -1,1 +1,1 @@
-Este repositório contém todos os arquivos do Jupyter Notebook dos códigos e arquivos extras usados no livro "Aprendendo Química com Python, Rodrigo Q. de Albuquerque & Gerd B. da Rocha, Amazon Book, 2021".
+Este repositório contém todos os arquivos do Jupyter Notebook dos códigos de Python, assim como os arquivos extras usados no livro "Aprendendo Química com Python, Rodrigo Q. de Albuquerque & Gerd B. da Rocha, Amazon Book, 2021".
