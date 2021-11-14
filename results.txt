@@ -1,9 +1,0 @@
-MC iteration 1, energy = 3.4232 hartree
-MC iteration 2, energy = 3.4783 hartree
-MC iteration 3, energy = 3.4155 hartree
-MC iteration 4, energy = 3.4369 hartree
-MC simulation will proceed for 2 more steps
-MC iteration 5, energy = 3.4423 hartree
-The MC iterations took ca 5.4321 seconds
-MC iteration 6, energy = 3.4510 hartree
-Average energy = 3.4412 +/- 0.0203
